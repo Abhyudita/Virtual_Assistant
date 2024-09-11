@@ -1,1 +1,2 @@
 # Virtual_Assistant
+"This virtual assistant, built using Python, is designed to streamline everyday tasks by providing intelligent, real-time responses. It can handle tasks like answering queries, playing your favourite songs, reciting news and performing basic computations, all through a simple and user-friendly interface. Leveraging libraries like speech_recognition, it offers voice interaction for a seamless user experience."
